@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   selector: 'app-user-chat-card',
   standalone: true,
   imports: [CommonModule],
-  templateUrl: './user-chat-card.component.html',
+  templateUrl:'./user-chat-card.component.html',
   styleUrl: './user-chat-card.component.scss'
 })
 export class UserChatCardComponent {
